@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Elegance Estates",
+    "price": "₹85,000,000",
+    "detail": "Prestige Park Road, Koramangala, Bangalore, Karnataka",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Royal Residencia",
+    "price": "₹42,500,000",
+    "detail": "Model Town, Ludhiana, Punjab",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Serenity Gardens",
+    "price": "₹1,20,00,000",
+    "detail": "Sholinganallur, Chennai, Tamil Nadu",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Palm Oasis",
+    "price": "₹65,00,000",
+    "detail": "Sector 84, Gurgaon, Haryana",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Lakeview Residency",
+    "price": "₹95,00,000",
+    "detail": "Hennur Road, Bangalore, Karnataka",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Greenfield Heights",
+    "price": "₹38,00,000",
+    "detail": "New Town, Kolkata, West Bengal",
+    "image": "./r3.png"
+  }
+]
